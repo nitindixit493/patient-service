@@ -18,6 +18,9 @@ public class Patient {
     @NotNull
     private String name;
 
+    @NotNull
+    private String lastName;
+
 
 
 
